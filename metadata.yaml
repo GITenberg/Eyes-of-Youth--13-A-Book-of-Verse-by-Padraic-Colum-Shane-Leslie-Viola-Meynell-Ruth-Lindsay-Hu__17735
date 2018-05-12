@@ -1,0 +1,30 @@
+_repo: Eyes-of-Youth--13-A-Book-of-Verse-by-Padraic-Colum-Shane-Leslie-Viola-Meynell-Ruth-Lindsay-Hu__17735
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2006-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 19th century'
+- !lcsh 'English poetry -- Irish authors'
+- !lcc 'PR'
+- !lcsh 'English poetry -- 20th century'
+title: "Eyes of Youth\r\nA Book of Verse by Padraic Colum, Shane Leslie, Viola Meynell,\
+  \ Ruth Lindsay, Hugh Austin, Judith Lytton, Olivia Meynell, Maurice Healy, Monica\
+  \ Saleeby & Francis Meynell. With four early poems by Francis Thompson & a foreword\
+  \ by Gilbert K. Chesterton"
+url: http://www.gutenberg.org/ebooks/17735
